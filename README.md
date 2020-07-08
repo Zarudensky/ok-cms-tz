@@ -1,1 +1,1 @@
-test
+https://zarudensky.github.io/ok-cms-tz/index.html
